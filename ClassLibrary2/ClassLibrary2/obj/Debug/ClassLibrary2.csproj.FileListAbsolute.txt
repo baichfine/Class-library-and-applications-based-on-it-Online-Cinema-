@@ -1,0 +1,10 @@
+c:\users\programmist\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll.config
+c:\users\programmist\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+c:\users\programmist\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+c:\users\programmist\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\EntityFramework.dll
+c:\users\programmist\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\programmist\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\EntityFramework.xml
+c:\users\programmist\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\programmist\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+c:\users\programmist\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+c:\users\programmist\documents\visual studio 2015\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache

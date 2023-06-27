@@ -1,0 +1,16 @@
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\bin\Debug\Artem.exe.config
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\bin\Debug\Artem.exe
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\bin\Debug\Artem.pdb
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\bin\Debug\ClassLibrary2.dll
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\bin\Debug\EntityFramework.dll
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\bin\Debug\ClassLibrary2.pdb
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\bin\Debug\EntityFramework.xml
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\obj\Debug\Artem.csprojResolveAssemblyReference.cache
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\obj\Debug\Artem.Form1.resources
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\obj\Debug\Artem.Form2.resources
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\obj\Debug\Artem.Properties.Resources.resources
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\obj\Debug\Artem.csproj.GenerateResource.Cache
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\obj\Debug\Artem.exe
+c:\users\programmist\documents\visual studio 2015\Projects\Artem\Artem\obj\Debug\Artem.pdb
